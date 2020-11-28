@@ -1,1 +1,2 @@
 # Digit_Recognizer
+DATASET GIVEN IN LINK IN TRAINING FILE
